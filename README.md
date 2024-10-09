@@ -61,4 +61,4 @@ This project fetches data from [Tomorrow.io](https://tomorrow.io). You can refer
 For questions or feedbacks feel free to contact me:
 
 - **Email:** achaldev3@gmail.com
-- **LinkedIn:** [Achal](https://www.linkedin.com/in/achal-ab39652b4/)
+- **LinkedIn:** [Achal](https://www.linkedin.com/in/-achal/)
